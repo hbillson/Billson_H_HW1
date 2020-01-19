@@ -1,0 +1,3 @@
+HOME: https://www.swisschalet.com/en
+MENU: https://www.swisschalet.com/en/menu.html
+STORY: https://www.swisschalet.com/en/swissstory.html
